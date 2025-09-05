@@ -1,6 +1,6 @@
 # Hi, I’m Charity 👋
 
-[![Solar Targets dashboard](images/dashboard.png)](https://public.tableau.com/views/SolarTargets2022/Dashboard)
+[![Solar Targets dashboard](images/Dashboard.png)](https://public.tableau.com/views/SolarTargets2022/Dashboard)
 
 Data/BI analyst who builds readable, decision-ready dashboards.
 
