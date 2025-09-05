@@ -1,8 +1,6 @@
 # Hi, I’m Charity 👋
 
-<a href="https://public.tableau.com/views/SolarTargets2022/Dashboard">
-  <img src="https://raw.githubusercontent.com/charitymcdaniel/solar-targets-2025/main/figures/dashboard.png" alt="Solar Targets dashboard" width="800">
-</a>
+[![Solar Targets dashboard](images/dashboard.png)](https://public.tableau.com/views/SolarTargets2022/Dashboard)
 
 Data/BI analyst who builds readable, decision-ready dashboards.
 
